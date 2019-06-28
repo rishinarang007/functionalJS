@@ -1,2 +1,0 @@
-# functionalJS
-Created with CodeSandbox
